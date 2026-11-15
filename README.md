@@ -144,6 +144,6 @@ Run the tests with `pytest`.
 
 WiCare is a hackathon prototype, not a medical device. It notices changes in the radio
 signal; it does not see who moved or where they are, and it is tuned for one bed per
-sensor pair. A threshold that suits a busy room may need re-tuning in a quiet one.
+sensor pair. A threshold that suits a busy room may need some rethinking.
 
 <p align="center"><sub>Built at HackPrinceton 2026.</sub></p>
